@@ -4,7 +4,7 @@ body {
     color: #fff;
 }
 
-
+/* Navigation Bar */
 
 #home {
     background-color: #141414;
@@ -55,7 +55,7 @@ body {
     float: left;
 }
 
-
+/* Titles */
 
 h2 {
     text-align: center;
@@ -72,13 +72,13 @@ h2 {
     position: relative;
 }
 
-
+/* Used in the About Me sections */
 
 .container {
     display: flex;
 }
 
-
+/* About Me */
 
 .about-me {
     display: flex;
@@ -104,7 +104,7 @@ h2 {
     margin: 5px;
 }
 
-
+/* Skills */
 
 .all_skills {
     display: flex;
@@ -157,7 +157,7 @@ h2 {
     justify-content: center;
 }
 
-
+/* Projects */
 
 .projects-container {
     margin-top: 30px;
@@ -185,7 +185,7 @@ h2 {
     margin-left: 30px;
 }
 
-
+/* Recommendations */
 
 .all_recommendations {
     font-family: Arial, Helvetica, sans-serif;
@@ -218,7 +218,7 @@ h2 {
     font-family: 'Times New Roman', Times, serif;
 }
 
-
+/* Scroll to Top Button */
 
 .iconbutton {
     width: 48px;
@@ -239,7 +239,7 @@ h2 {
     background-color: #333;
 }
 
-
+/* Form Pop-up */
 
 .popup {
     width: 400px;
@@ -279,7 +279,7 @@ h2 {
     cursor: pointer;
 }
 
-
+/* Recommendation Form */
 
 input, textarea {
     margin: 10px;
@@ -300,7 +300,7 @@ fieldset {
     width: 50%;
 }
 
-
+/* Buttons */
 
 button {
     background-color: #1e90ff;
